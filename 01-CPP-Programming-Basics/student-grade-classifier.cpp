@@ -5,10 +5,8 @@ using namespace std;
 int main()
 {
 	int marks;
-	
 	std::cout<<"Enter your marks = ";
 	std::cin>>marks;
-	
 	if ( marks >= 90 && marks <= 100)
 	std::cout<< "Grade: A";
 	else if ( marks >= 80)
