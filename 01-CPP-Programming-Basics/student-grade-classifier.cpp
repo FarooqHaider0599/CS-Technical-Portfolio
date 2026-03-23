@@ -1,5 +1,7 @@
+//Author: Farooq Haider
+//Purpose:A lightweight C++ utility for automated grade classification based on user-defined marks.
 #include<iostream>
-//using namespace std;
+using namespace std;
 int main()
 {
 	int marks;
