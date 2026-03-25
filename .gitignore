@@ -1,5 +1,6 @@
-# Prerequisites
-*.d
+# ==========================================
+# Standard C++ Git Ignore Template
+# ==========================================
 
 # Compiled Object files
 *.slo
@@ -10,12 +11,6 @@
 # Precompiled Headers
 *.gch
 *.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
 
 # Compiled Dynamic libraries
 *.so
@@ -37,5 +32,10 @@
 *.out
 *.app
 
-# debug information files
-*.dwo
+# IDE - Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
