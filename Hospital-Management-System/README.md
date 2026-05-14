@@ -1,4 +1,4 @@
-# Hospital Management System
+# 02-Hospital-Management-System/README.md
 
 **1st Semester BCS Group Project**  
 **Language:** C++
