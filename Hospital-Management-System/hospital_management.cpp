@@ -1,5 +1,4 @@
-// Author : Farooq Haider 
-//Purpose : // Author  : Farooq Haider
+// Author : Farooq Haider , Saad Haider , Maaz Ali , Ahmad Ifthikhar , Ibraheem Baig
 // Purpose : Hospital Management System 
 //           A comprehensive console-based C++ application developed 
 //           for 1st Semester BCS coursework. It allows users to 
