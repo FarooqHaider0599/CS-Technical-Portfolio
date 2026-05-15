@@ -1,4 +1,4 @@
-//Author: Farooq Haider.
+//Author: Farooq Haider
 /*Purpose: A C++ program to implement a simple University Fee Management System
   using function overloading to calculate semester fee, lab charges,
   and transport fee combinations.*/
