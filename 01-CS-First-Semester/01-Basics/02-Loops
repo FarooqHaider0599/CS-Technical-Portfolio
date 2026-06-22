@@ -1,0 +1,51 @@
+//Author: M.Farooq Haider.
+//Description:Maps integer inputs (1-7) to corresponding week days, featuring stream validation to catch and handle invalid user data entries without crashing.
+
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{
+    int dayNumber;
+
+    cout << "Enter a number for a day (1-7): ";
+    
+    // Input validation: Check if user entered a valid integer
+    if (!(cin >> dayNumber)) 
+    {
+        cout << "Error: Invalid input. Please enter a numerical integer." << endl;
+        return 1; // Return error code to system
+    }
+
+    // Map number to corresponding day
+    switch (dayNumber) 
+    {
+        case 1:
+            cout << "Friday" << endl;
+            break;
+        case 2:
+            cout << "Saturday" << endl;
+            break;
+        case 3:
+            cout << "Sunday" << endl;
+            break;
+        case 4:
+            cout << "Monday" << endl;
+            break;
+        case 5:
+            cout << "Tuesday" << endl;
+            break;
+        case 6:
+            cout << "Wednesday" << endl;
+            break;
+        case 7:
+            cout << "Thursday" << endl;
+            break;
+        default:
+            cout << "Error: Out of range. Enter a number strictly between 1 and 7." << endl;
+            break;
+    }
+
+    return 0;
+}
