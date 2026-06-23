@@ -1,3 +1,5 @@
+//Author:M.Farooq Haider.
+//Description: A C++ simple calculator code for calculting basic arthematic operations.
 #include<iostream>
 int main()
 {
