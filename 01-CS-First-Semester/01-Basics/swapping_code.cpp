@@ -1,9 +1,7 @@
 //Author: M.Farooq Haider
 //Description: Demonstrates fundamental memory manipulation by swapping the values of two user-defined integers using a temporary storage variable.
 #include <iostream>
-
 using namespace std;
-
 int main() 
 {
     int firstNumber, secondNumber;
