@@ -1,4 +1,6 @@
-    #include<iostream>
+//Author: M.Farooq Haider
+//Description : The program clearly displays how prefix operators modify the variable before returning its value, while postfix operators return the original value before updating it.
+#include<iostream>
 using namespace std;
 int main()
 {	
