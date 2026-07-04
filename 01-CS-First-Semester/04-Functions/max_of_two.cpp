@@ -5,7 +5,6 @@
 using namespace std;
 void max(int a,int b);
 
-
 int main()
 {
 	int x,y;
@@ -17,11 +16,7 @@ int main()
 void max(int a,int b)
 {
 	if(a>b)
-	{
-	cout<<"Maximum number is"<<a<<endl;
-	}
+	   cout<<"Maximum number is"<<a<<endl;
 	else 
-	{
-	cout<<"Maximum number is"<<b<<endl;
-	}
+	   cout<<"Maximum number is"<<b<<endl;
 }
