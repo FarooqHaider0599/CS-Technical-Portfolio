@@ -1,18 +1,19 @@
-#include<iostream>
+//Author: M.Farooq Haider.
+//Purpose: This C++ program accepts an integer input from the user, dynamically reverses the sequence of its digits, and prints the inverted result to the console.
 
+#include<iostream>
+using namespace std;
 int main()
 {
 	int number , reverse = 0;
-	
-	std::cout<< "Enter a number: ";
-	std::cin>>number;
+	cout<< "Enter a number: ";
+	cin>>number;
 	
 	while(number != 0)
 	{
 		reverse = reverse * 10 + number % 10;
 		number /= 10;
 	}
-	std::cout<<"Reversed number = "<< reverse;
-	
+	cout<<"Reversed number = "<< reverse;
 	return 0;
 }
