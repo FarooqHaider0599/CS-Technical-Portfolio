@@ -1,13 +1,13 @@
-//Name: Farooq Haider
+//Name: M.Farooq Haider
 //Purpose: Input five values,stores in array and display sum and average
 
 #include<iostream>
 using namespace std;
 int main()
 {
-	int arr[5],i,sum = 0;
+	int arr[5],sum = 0;
 	float avg = 0.0;
-	for(i=0;i<5;i++)
+	for(int i=0;i<5;i++)
 	{
 		cout<<"Enter Value:";
 		cin>>arr[i];
