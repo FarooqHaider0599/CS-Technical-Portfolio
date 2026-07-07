@@ -1,4 +1,4 @@
-//Nmae: M.Farooq Haider
+//Author: M.Farooq Haider
 //Purpose: This program implements a basic menu-driven calculator that performs arithmetic operations on two floating-point numbers based on a user-selected operator using a switch statement.
 
 #include<iostream>
