@@ -1,6 +1,7 @@
+//Name: M.Farooq Haider
+//Purpose: This program collects five student roll numbers from the user and displays them in reverse order.
 #include <iostream>
 using namespace std;
-
 // Function that receives the array and shows numbers backwards
 void displayReverse(int arr[], int size) {
     cout << "Roll numbers in reverse order: ";
