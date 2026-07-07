@@ -1,4 +1,4 @@
-//Name: M.Farooq Haider
+//Author: M.Farooq Haider
 //Purpose: This program collects five student roll numbers from the user and displays them in reverse order.
 #include <iostream>
 using namespace std;
