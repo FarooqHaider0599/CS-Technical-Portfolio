@@ -1,4 +1,4 @@
-//Name: M.Farooq Haider
+//Author: M.Farooq Haider
 //Purpose: This program determines and displays a student's letter grade based on an integer marks input using a conditional if-else if structure.
 
 #include<iostream>
