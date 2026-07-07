@@ -1,13 +1,17 @@
-#include<iostream>
-using namespace std;
+//Author: M.Farooq Haider
+//Purpose:This program calculates and displays the correct arithmetic sum of two integer values using a dedicated addition function.
 
-int add(int a,int b)
+#include <iostream>
+using namespace std;
+int add( int a,  int b) 
 {
-	return a,b;
+    return a + b;
 }
+
 int main()
 {
-	int x = 5, y = 3;
-	cout<<"Sum = "<<add(x,y);
-	return 0;
+     int x = 5;
+     int y = 3;
+     std::cout << "Sum = " << add(x, y) << std::endl;
+     return 0;
 }
