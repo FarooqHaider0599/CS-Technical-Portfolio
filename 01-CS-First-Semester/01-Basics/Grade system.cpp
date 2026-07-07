@@ -1,21 +1,23 @@
+//Name: M.Farooq Haider
+//Purpose: This program determines and displays a student's letter grade based on an integer marks input using a conditional if-else if structure.
+
 #include<iostream>
-//using namespace std;
+using namespace std;
 int main()
 {
 	int marks;
-	
-	std::cout<<"Enter your marks = ";
-	std::cin>>marks;
+	cout<<"Enter your marks = ";
+	cin>>marks;
 	
 	if ( marks >= 90 && marks <= 100)
-	std::cout<< "Grade: A";
+	  cout<< "Grade: A";
 	else if ( marks >= 80)
-	std::cout<< "Grade: B";
+	  cout<< "Grade: B";
 	else if ( marks >= 70)
-	std::cout<<" Grade: C";
+	  cout<<" Grade: C";
 	else if ( marks >= 60 )
-	std::cout <<" Grade: D";
+	  cout <<" Grade: D";
 	else
-	std::cout<<" Grade: F";
+	  cout<<" Grade: F";
 	return 0;
 }
