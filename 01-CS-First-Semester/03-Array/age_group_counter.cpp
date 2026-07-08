@@ -1,5 +1,6 @@
-//Name: M.Farooq Hiader
+//Author: M.Farooq Hiader
 //Purpose: Inputs ages of persons and counts how many are between 50 and 60
+
 #include<iostream>
 using namespace std;
 int main()
