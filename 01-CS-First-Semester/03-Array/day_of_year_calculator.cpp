@@ -1,4 +1,4 @@
-//Name: Farooq Haider
+//Author: M.Farooq Haider
 //Purpose: Inputs day and month then calculates total days till that date in the year 
 
 #include<iostream>
