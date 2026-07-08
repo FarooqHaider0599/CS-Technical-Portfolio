@@ -2,7 +2,6 @@
 //Description: A simple C++ Program for finding the factorial of the input integer.
 
 #include<iostream>
-
 int main()
 {
 	int number;
