@@ -1,5 +1,11 @@
-//Author: M.Farooq Haider
-//Purpose: Input five values,stores in array and display sum and average
+/**
+ * @file     sum-and-average.cpp
+ * @author   Muhammad Farooq Haider
+ * @brief    Calculates sum and average of 5 numbers entered by the user.
+ *
+ * Course:   Introduction to Programming (CS101)
+ * Semester: Spring 2026
+ */
 
 #include<iostream>
 using namespace std;
