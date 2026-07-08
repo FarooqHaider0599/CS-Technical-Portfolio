@@ -1,4 +1,4 @@
-//Name: M.Farooq Haider
+//Author: M.Farooq Haider
 //Purpose: Input five values,stores in array and display sum and average
 
 #include<iostream>
