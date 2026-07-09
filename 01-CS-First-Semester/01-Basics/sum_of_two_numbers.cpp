@@ -1,4 +1,11 @@
-
+/**
+ * @file     sum_of_two_numbers.cpp
+ * @author   Muhammad Farooq Haider
+ * @brief    Calculates the sum of two numbers entered by the user.
+ *
+ * Course:   Introduction to Programming (CS101)
+ * Semester: Spring 2026
+ */
 
 #include<iostream>
 int main()
