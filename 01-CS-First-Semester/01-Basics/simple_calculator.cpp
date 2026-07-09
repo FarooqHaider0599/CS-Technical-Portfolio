@@ -1,5 +1,13 @@
-//Author:M.Farooq Haider.
-//Description: A C++ simple calculator code for calculting basic arthematic operations.
+/**
+ * @file     simple_calculator.cpp
+ * @author   Muhammad Farooq Haider
+ * @brief    A simple calculator that performs basic arithmetic operations 
+ * (addition, subtraction, multiplication, and division) on two user-input integers.
+ *
+ * Course:   Introduction to Programming (CS101)
+ * Semester: Spring 2026
+ */
+
 #include<iostream>
 int main()
 {
