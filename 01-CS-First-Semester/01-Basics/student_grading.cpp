@@ -1,5 +1,12 @@
-//Author: M.Farooq Haider
-//Purpose: This program determines and displays a student's letter grade based on an integer marks input using a conditional if-else if structure.
+/**
+ * @file     student_grading.cpp
+ * @author   Muhammad Farooq Haider
+ * @brief    Determines and displays a student's letter grade based on an 
+ * integer marks input using an if-else if structure.
+ *
+ * Course:   Introduction to Programming (CS101)
+ * Semester: Spring 2026
+ */
 
 #include<iostream>
 using namespace std;
